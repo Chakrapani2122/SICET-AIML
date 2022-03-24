@@ -1,7 +1,6 @@
 .heading{
     color: white;
     background-color: #3A887B;
-    border-radius: 10px 10px 10px 10px ;
     padding: 10px;
     text-align: center;
     height: 250px;
@@ -20,9 +19,7 @@
 }
 .foot{
     background-color: #3A887B;
-
     margin: 20px -10px -10px -10px;
-    border-radius:10px ;
 }
 #logo{
     width: 100px;
